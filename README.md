@@ -2,7 +2,7 @@
 
 - ⚽️ I'm currently on Team ... Calcifer
 - 🛠 I’m currently working on ... Harvester
-- 🌱 I’m currently learning ... Android Native
+- 🌱 I’m currently learning ... Android Native, DevOps
 - 🤔 I’m looking for help with ... CI/CD Pilelines
 - 💬 Ask me about ... Okta
 - 📫 How to reach me: ... Teams & Email as scott.williams4@kroger.com
