@@ -7,4 +7,4 @@
 - 💬 Ask me about ... Okta
 - 📫 How to reach me: ... Teams & Email as scott.williams4@kroger.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... Used to be a designer & photographer before (mostly) teaching himself 
+- ⚡ Fun fact: ... Used to be a designer & photographer before (mostly) teaching himself programming
